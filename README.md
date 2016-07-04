@@ -1,4 +1,5 @@
-MyBatis JPetStore
+# MyBatis JPetStore : MyBatis-Spring-Sample
+ [简介](http://www.mybatis.org/spring/zh/index.html)
 =================
 
 [![Build Status](https://travis-ci.org/mybatis/jpetstore-6.svg?branch=master)](https://travis-ci.org/mybatis/jpetstore-6)
